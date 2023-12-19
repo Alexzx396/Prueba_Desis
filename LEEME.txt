@@ -1,8 +1,8 @@
 intructivo de intalacion del proyecto
 
-para la instalacion de la app es PHP Version 8.2.4
+para la instalacion de la app es PHP Version 8.2.12
 se descarga XAMPP CONTROL PANEL V3.3.0
-corremos el modulo apache y mysql version "10.4.28-MariaDB"
+corremos el modulo apache y mysql version 10.4.32-MariaDB
 para despues en php my admin crear una 
 db llamada :"pruebadsis"
 usuario : "root"
