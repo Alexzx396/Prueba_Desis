@@ -1,8 +1,6 @@
 <?php
 
 include_once 'controlador.php';
-
-
 include_once 'styles/formulario.php';
 ?>
 
